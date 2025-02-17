@@ -23,8 +23,9 @@
             | joão@ebac.com     |formato de e-mail inválido, informe-o corretamente|
             | kelen @ebac.com   |formato de e-mail inválido, informe-o corretamente|
             | antonio@@ebac.com |formato de e-mail inválido, informe-o corretamente|
-            | tamara@ebac..com  |formato de e-mail inválido, informe-o corretamente|
+            | tamara@ebac..com  |formato de e-mail inválido, informe-o corretament=|
 
             Cenário: Cadastro com campos vazios
-            Quando eu tentar realizar o cadastro com campos vazios
+            Quando eu tentar realizar o cadastro 
+            E deixar campos vazios
             Então deve exibir a mensagem "preencha os campos vazios"
