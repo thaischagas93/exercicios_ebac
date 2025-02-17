@@ -17,7 +17,7 @@
             Então deve exibir a <mensagem> de formato de erro
 
             Exemplos:
-            | e-mail            | mensagem        |
+            | e-mail            |mensagem        |
             | thais.ebac.com    |formato de e-mail inválido, informe-o corretamente|
             | ana@ebac          |formato de e-mail inválido, informe-o corretamente|
             | joão@ebac.com     |formato de e-mail inválido, informe-o corretamente|
